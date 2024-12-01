@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BlackRabitPvtLtd/static/css/main.b0be23ca.css",
+    "main.js": "/BlackRabitPvtLtd/static/js/main.feac2e10.js",
+    "static/js/453.8769e955.chunk.js": "/BlackRabitPvtLtd/static/js/453.8769e955.chunk.js",
+    "static/media/8079.jpg": "/BlackRabitPvtLtd/static/media/8079.23ad0ee5f2f8fdb81628.jpg",
+    "static/media/72619-OEB7O4-90.jpg": "/BlackRabitPvtLtd/static/media/72619-OEB7O4-90.9e31228061a800b12e40.jpg",
+    "static/media/6228103.jpg": "/BlackRabitPvtLtd/static/media/6228103.37660a0cc1fa57e8a65d.jpg",
+    "index.html": "/BlackRabitPvtLtd/index.html",
+    "main.b0be23ca.css.map": "/BlackRabitPvtLtd/static/css/main.b0be23ca.css.map",
+    "main.feac2e10.js.map": "/BlackRabitPvtLtd/static/js/main.feac2e10.js.map",
+    "453.8769e955.chunk.js.map": "/BlackRabitPvtLtd/static/js/453.8769e955.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0be23ca.css",
+    "static/js/main.feac2e10.js"
+  ]
+}
