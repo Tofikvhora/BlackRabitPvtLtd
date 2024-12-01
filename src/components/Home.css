@@ -1,0 +1,22 @@
+
+  
+  /* src/components/Home.css */
+.home {
+    text-align: center;
+    padding: 50px;
+    background: url('https://img.freepik.com/free-photo/many-transport-trucks-parked-service-station-sunset-ai-generative_123827-23416.jpg?ga=GA1.1.687227005.1732701447&semt=ais_hybrid') no-repeat center center/cover;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+  .home h1 {
+    font-size: 3rem;
+    margin-bottom: 0px;
+  }
+  .home p {
+    font-size: 1.5rem;
+  }
+  

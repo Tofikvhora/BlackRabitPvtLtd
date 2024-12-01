@@ -1,0 +1,12 @@
+/* src/components/Footer.css */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: white;
+  color: black;
+  height: 60px; /* Adjust height as needed */
+  padding: 10px;
+  font-size: 1rem;
+}
